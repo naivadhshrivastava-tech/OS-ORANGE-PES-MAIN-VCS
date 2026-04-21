@@ -1,0 +1,26 @@
+# Compiled binaries
+pes
+test_objects
+test_tree
+
+# Object files
+*.o
+*.obsidian
+
+# PES repository (created during testing)
+.pes/
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temp / junk
+file*.txt
+index_demo_*.txt
+pes_asan
+render_terminal_image.py
+.report_tmp/
+
